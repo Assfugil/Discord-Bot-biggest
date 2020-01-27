@@ -9,7 +9,7 @@ from discord.ext import commands
 
 checkemoji = ":Check:670929822863720468"
 uncheckemoji = ":Uncheck:670929839795994624"
-token = "NjY3NTM3ODYyOTEyMzc2ODUz.Xi2QNg.hcjl0SNVaQUX5hsTg9jVMAUGwaI"
+token = "NjY3NTM3ODYyOTEyMzc2ODUz.Xi2QNg.hcjl0SNVaQUX5hsTg9jVMAUGwaG"
 suggestid = 670920875146477578
 wantroleid = 670920928519127051
 voteid = 670925187796959242
